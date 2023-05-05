@@ -8,3 +8,5 @@ Entorns de Desenrotllament
 
 Programa exemple per activitat de Github amb Python
 
+## 05/05/20223 - 20:01
+Agregado opción para vaciar todos los cubos

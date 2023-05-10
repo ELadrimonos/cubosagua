@@ -13,3 +13,6 @@ Agregado opción para llenar todos los cubos
 
 ## 05/05/2023 - 20:01
 Agregado opción para vaciar todos los cubos
+
+## 10/05/2023 - 21:19
+Añadido documentación

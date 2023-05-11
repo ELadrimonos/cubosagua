@@ -2,9 +2,11 @@ import sys
 
 """
 Juego de llenar cubos de agua hasta llegar a un objetivo
-.. include:: ./README.md
 """
 class juegoCubos:
+    """
+    .. include:: ./README.md
+    """
     pasos = 0
     """
     El número de pasos que ha tardado el jugador en completar el objetivo
